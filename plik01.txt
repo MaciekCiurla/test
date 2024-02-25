@@ -1,1 +1,2 @@
 To jest plik01.
+To jest zmiana dokonana w b01.

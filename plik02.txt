@@ -1,1 +1,2 @@
 To jest plik02.
+Zmiana w branchu b01.
